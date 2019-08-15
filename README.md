@@ -8,7 +8,8 @@ Cheers !!! ✌️
 2. [Anh 🔠](#Anh)
 
 ## Toán
-1. Các chuyên đề
+1. **Các chuyên đề**
 
 * [Hình học không gian sưu tầm](https://drive.google.com/drive/u/0/folders/1To3ZJILS-ABU5DtNFaiY9M7j0D2A5ahj)
+
 Đây là một trong những chuyên đề khó của lớp 12. Nếu có nền tảng vững và tư duy không gian tốt thì phần chuyên đề này sẽ nhẹ nhàng hơn. 
