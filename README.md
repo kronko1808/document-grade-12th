@@ -4,8 +4,8 @@ Trong thời gian đang đợi nhập học này, anh cũng không có nhiều v
 Cheers !!! ✌️
 
 ### Mục lục
-1. [Toán 📐](#Toán)
-2. [Anh 🔠](#Anh)
+1. [Toán 📐](#toán)
+2. [Anh 🔠](#anh)
 
 ## Toán
 1. **Các chuyên đề**
@@ -13,6 +13,9 @@ Cheers !!! ✌️
 * [Hình học không gian sưu tầm](https://drive.google.com/drive/u/0/folders/1To3ZJILS-ABU5DtNFaiY9M7j0D2A5ahj)
 
 Đây là một trong những chuyên đề khó của lớp 12. Nếu có nền tảng vững và tư duy không gian tốt thì phần chuyên đề này sẽ nhẹ nhàng hơn. 
+
 * [Mũ - Logarit](https://drive.google.com/drive/folders/1u21X4EVQbbZzFm72538VklYaV4vn--vJ)
 
 Cái này cũ phết rồi :v nhưng dùng được
+
+* []
