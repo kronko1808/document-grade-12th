@@ -8,8 +8,8 @@
 Cheers !!! ✌️</p>
 <h2 id="mục-lục">Mục lục</h2>
 <ol>
-<li><a href="#To%C3%A1n">Toán 📐</a></li>
-<li><a href="#Anh">Anh 🔠</a></li>
+<li><a href="#to%C3%A1n">Toán 📐</a></li>
+<li><a href="#anh">Anh 🔠</a></li>
 </ol>
 <h2 id="toán">Toán</h2>
 
